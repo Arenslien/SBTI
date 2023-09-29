@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SBTI/static/css/main.733d9ae0.css",
+    "main.js": "/SBTI/static/js/main.9e311856.js",
+    "static/js/787.acec334e.chunk.js": "/SBTI/static/js/787.acec334e.chunk.js",
+    "index.html": "/SBTI/index.html",
+    "main.733d9ae0.css.map": "/SBTI/static/css/main.733d9ae0.css.map",
+    "main.9e311856.js.map": "/SBTI/static/js/main.9e311856.js.map",
+    "787.acec334e.chunk.js.map": "/SBTI/static/js/787.acec334e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733d9ae0.css",
+    "static/js/main.9e311856.js"
+  ]
+}
